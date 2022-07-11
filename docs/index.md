@@ -1,5 +1,3 @@
-# **Applying for a CWW in NJ**
-
 The **requirements** list below is everything you need and the steps to complete them
 Depending on the town you live in, the PD may want you to submit the requirements slightly differently.
 
