@@ -7,7 +7,7 @@ If you see your town listed below the **requirements**, it is listing one of the
 
 # **REQUIREMENTS**
 
-1. **Fill out** [**form SP-642**](https://nj.gov/njsp/firearms/pdf/sp-642.pdf) **Application to conceal carry permit**
+1. **Fill out** [**form SP-642**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **Application to conceal carry permit**
     - For legibility purposes, fill out all information that you can on a computer, besides for signatures
     - Print out **THREE** application forms (page one). Then, print the second page for witnesses on the back of the application forms.
     - Each of the three forms should be filled out **(NO COPIES)**
@@ -15,7 +15,7 @@ If you see your town listed below the **requirements**, it is listing one of the
     - It is suggested to put witnesses who will be ready to answer the phone when the PD calls them
     - Notarize all three applications. Lawyers/Banks/Post Office usually have a notary on hand.
 
-1. **Complete** [**form SP0-66**](https://nj.gov/njsp/info/pdf/firearms/sp-066.pdf) **for consent of mental health record search.**
+1. **Complete** [**form SP0-66**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD and they will sign as well as a witness.
 1. **FOUR 1.5&quot; x 1.5&quot; passport photos**. Purchasable from a CVS/UPS/FedEx store
 1. **Money order OR Cashier&#39;s check for $50 made payable to &quot;Treasurer, State of New Jersey&quot;**
