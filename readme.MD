@@ -29,7 +29,7 @@ If you see your town listed below the **requirements**, it is listing one of the
    - The **Contributor Case Code** a.k.a **Named Number** is unique to the applicant. Call your police department to get it. They can give it to you when you provide your name and DOB. (If you have this number from when you went for FID fingerprinting, it is the same number, and you can use it here)
    - Save your Identogo receipt, you will need to submit it with your application.
 1. **Receipt of purchase for guns you want to carry**
-   - This can be the pink &quot;Permit to purchase a handgun &amp; form of register&quot; slip or an invoice [see pic](https://drive.google.com/file/d/1H-t_cSyHumFS8V1mAKQHzTIOP0-ZUVOu/view?usp=sharing) **OR** a notarized letter signed by you saying you own them. The make caliber and model should be listed
+   - This can be the pink &quot;Permit to purchase a handgun &amp; form of register&quot; slip or an invoice [see pic]([https://drive.google.com/file/d/1H-t_cSyHumFS8V1mAKQHzTIOP0-ZUVOu/view?usp=sharing](https://github.com/mayerlench/ccwnj/blob/main/receipt.jpg?raw=true)) **OR** a notarized letter signed by you saying you own them. The make caliber and model should be listed
 
 1. **Training &amp; Qualifications** : You must take a shooting test **OR** sit in a class. The quickest way to qualify is to take a short shooting test by a instructor
    - For qualifications/training contact Marcus Max @ 201-321-1309
