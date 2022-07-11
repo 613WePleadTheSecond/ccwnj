@@ -5,6 +5,8 @@ Depending on the town you live in, the PD may want you to submit the requirement
 
 If you see your town listed below the **requirements**, it is listing one of the requirements but specifically addressing how your town wants you submit it
 
+> Always be safe and make sure you are properly trained, taking a course to learn proper etiquette and safety should be your first prioirty espically if you plan on carrying
+
 # **REQUIREMENTS**
 
 1. **Fill out** [**form SP-642**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **Application to conceal carry permit**
