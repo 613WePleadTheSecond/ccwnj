@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+title: CCW NJ
+github:
+  is_project_page: false
