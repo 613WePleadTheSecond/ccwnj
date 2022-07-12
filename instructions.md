@@ -57,3 +57,4 @@ If you see your town listed below the **requirements**, it is listing one of the
 **Municipal Code:** 1512  
 
 **Fingerprinting**: to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.
+
