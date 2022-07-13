@@ -3,7 +3,7 @@ Depending on the town you live in, the PD may want you to submit the requirement
 
 If you see your town listed below the **requirements**, it is listing one of the requirements but specifically addressing how your town wants you submit it
 
-> Always be safe and make sure you are properly trained, taking a course to learn proper etiquette and safety should be your first prioirty espically if you plan on carrying
+> Always be safe and make sure you are properly trained, taking a course to learn proper etiquette and safety should be your first priority espically if you plan on carrying
 
 # **REQUIREMENTS**
 
@@ -16,7 +16,7 @@ If you see your town listed below the **requirements**, it is listing one of the
     - Notarize all three applications. Lawyers/Banks/Post Office usually have a notary on hand.
 
 1. **Complete** [**form SP0-66**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
-    - DO NOT sign the form. You must sign the form in front of the PD and they will sign as well as a witness.
+    - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
 1. **FOUR 1.5&quot; x 1.5&quot; passport photos**. Purchasable from a CVS/UPS/FedEx store
 1. **Money order OR Cashier&#39;s check for $50 made payable to &quot;Treasurer, State of New Jersey&quot;**
     - You can get a Cashier&#39;s check from your bank.
@@ -40,20 +40,18 @@ If you see your town listed below the **requirements**, it is listing one of the
 **ORI#** NJ0150700  
 **Municipal Code:** 1508  
 
-**Fingerprinting** : Contact TRPD – records department, to get your **Contributor case code**  
+**Fingerprinting**: Contact TRPD – records department, to get your **Contributor case code**  
 
 ## **LAKEWOOD**  
 732-363-0200  
 **ORI#** NJ0151400  
 **Municipal Code:** 1515  
 
-**Fingerprinting** : Lakewood is the single town that is telling applicants **NOT** to get fingerprinted before submitting the application. A detective will follow up with you to let you know the next steps after you submit your application 🙄
-
-**Mental Health Form:** Sign the form with a witness **before** submitting it to PD. The witness can be a friend for example. Yes lakewood is the only town requiring it this way
+**Fingerprinting**: Lakewood is the single town that is telling applicants **NOT** to get fingerprinted before submitting the application. A detective will follow up with you to let you know the next steps after you submit your application 🙄
 
 ## **JACKSON**  
 732-928-1111  
 **ORI#** NJ0151100  
 **Municipal Code:** 1512  
 
-**Fingerprinting** : to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.
+**Fingerprinting**: to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.
