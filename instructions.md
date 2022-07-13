@@ -18,7 +18,7 @@ If you see your town listed below the **requirements**, it is listing one of the
     - Notarize all three applications. Lawyers/Banks/Post Office usually have a notary on hand.
 
 1. **Complete** [**form SP0-66**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
-    - DO NOT sign the form. You must sign the form in front of the PD and they will sign as well as a witness.
+    - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as well as the witness.
 1. **FOUR 1.5&quot; x 1.5&quot; passport photos**. Purchasable from a CVS/UPS/FedEx store
 1. **Money order OR Cashier&#39;s check for $50 made payable to &quot;Treasurer, State of New Jersey&quot;**
     - You can get a Cashier&#39;s check from your bank.
