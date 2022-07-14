@@ -45,7 +45,7 @@ If you see your town listed below the **requirements**, it is listing one of the
 ## **LAKEWOOD**  
 732-363-0200  
 **ORI#** NJ0151400  
-**Municipal Code:** 1515  
+**Municipal Code:** 1514  
 
 **Fingerprinting**: Lakewood is the single town that is telling applicants **NOT** to get fingerprinted before submitting the application. A detective will follow up with you to let you know the next steps after you submit your application 🙄
 
