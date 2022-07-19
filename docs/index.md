@@ -3,7 +3,7 @@ Depending on the town you live in, the PD may want you to submit the requirement
 
 If you see your town listed below the **requirements**, it is listing one of the requirements but specifically addressing how your town wants you submit it
 
-> Always be safe and make sure you are properly trained, taking a course to learn proper etiquette and safety should be your first priority espically if you plan on carrying
+> :gun: :rotating_light: **Always be safe and make sure you are properly trained**: Taking a course to learn proper etiquette and safety should be your first priority especially if you plan on carrying
 
 # **REQUIREMENTS**
 
@@ -17,7 +17,7 @@ If you see your town listed below the **requirements**, it is listing one of the
 
 1. **Complete** [**form SP0-66**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
-1. **FOUR 1.5&quot; x 1.5&quot; passport photos**. Purchasable from a CVS/UPS/FedEx store
+1. **FOUR 1.5&quot; x 1.5&quot; photos**. Purchasable from a CVS/UPS/FedEx store
 1. **Money order OR Cashier&#39;s check for $50 made payable to &quot;Treasurer, State of New Jersey&quot;**
     - You can get a Cashier&#39;s check from your bank.
     - Or you can get a money order at a 7-11/convenience store
@@ -31,9 +31,19 @@ If you see your town listed below the **requirements**, it is listing one of the
 
 1. **Training &amp; Qualifications** : You must take a shooting test **OR** sit in a class. The quickest way to qualify is to take a short shooting test by a instructor
    - For qualifications/training contact Marcus Max @ 201-321-1309
-   - The test includes shooting a total of 50 rounds out of each gun you want to carry. A minimum amount of score points are needed to pass
 
-1. **You will need your drivers license AND your birth certificate**. Not all towns are requiring a birth certificate, either way, bring a copy of both
+### :large_blue_circle: SUBMITTING YOUR APPLICATION (CHECKLIST) :large_blue_circle:
+Using this checklist, submit your application to your local police station records department  
+- [ ] Three applications for conceal carry permit (form SP-642)
+- [ ] Consent of mental health record search (form SP-066)
+- [ ] Four photos
+- [ ] Money Order
+- [ ] Identogo fingerprinting receipt
+- [ ] Receipt of purchase for guns you want to carry
+- [ ] Training &amp; Qualifications certificate
+- [ ] Drivers license
+- [ ] Firearms purchasing card (FID)
+- [ ] Copy of birth certificate
 
 ## **TOMS RIVER**  
 732-349-0150    
