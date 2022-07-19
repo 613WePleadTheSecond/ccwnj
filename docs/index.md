@@ -3,7 +3,7 @@ Depending on the town you live in, the PD may want you to submit the requirement
 
 If you see your town listed below the **requirements**, it is listing one of the requirements but specifically addressing how your town wants you submit it
 
-> :gun: :rotating_light: **Always be safe and make sure you are properly trained**: Taking a course to learn proper etiquette and safety should be your first priority especially if you plan on carrying
+> 🔫 🚨 **Always be safe and make sure you are properly trained**: Taking a course to learn proper etiquette and safety should be your first priority especially if you plan on carrying
 
 # **REQUIREMENTS**
 
@@ -32,7 +32,7 @@ If you see your town listed below the **requirements**, it is listing one of the
 1. **Training &amp; Qualifications** : You must take a shooting test **OR** sit in a class. The quickest way to qualify is to take a short shooting test by a instructor
    - For qualifications/training contact Marcus Max @ 201-321-1309
 
-### :large_blue_circle: SUBMITTING YOUR APPLICATION (CHECKLIST) :large_blue_circle:
+### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST) 🔵
 Using this checklist, submit your application to your local police station records department  
 - [ ] Three applications for conceal carry permit (form SP-642)
 - [ ] Consent of mental health record search (form SP-066)
