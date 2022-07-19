@@ -48,7 +48,7 @@ Using this checklist, submit your application to your local police station recor
 ## **TOMS RIVER**  
 732-349-0150    
 **ORI#** NJ0150700  
-**Municipal Code:** 1508  
+**Municipal Code:** 1507  
 
 **Fingerprinting**: Contact TRPD – records department, to get your **Contributor case code**  
 
