@@ -1,4 +1,4 @@
-The **requirements** list below is everything you need and the steps to complete them
+The **requirements** list below is everything you need and the steps to complete them.  
 Depending on the town you live in, the PD may want you to submit the requirements slightly differently.
 
 If you see your town listed below the **requirements**, it is listing one of the requirements but specifically addressing how your town wants you submit it
