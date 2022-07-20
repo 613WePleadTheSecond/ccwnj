@@ -32,7 +32,7 @@ If you see your town listed below the **requirements**, it is listing one of the
 1. **Training &amp; Qualifications** : You must take a shooting test **OR** sit in a class. The quickest way to qualify is to take a short shooting test by a instructor
    - For qualifications/training contact Marcus Max @ 201-321-1309
 
-### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST) 🔵
+### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST)
 Using this checklist, submit your application to your local police station records department  
 - [ ] Three applications for conceal carry permit (form SP-642)
 - [ ] Consent of mental health record search (form SP-066)
