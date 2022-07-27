@@ -17,7 +17,10 @@ If you see your town listed below the **requirements**, it is listing one of the
 
 1. **Complete** [**form SP0-66**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
-1. **FOUR 1.5&quot; x 1.5&quot; photos**. Purchasable from a CVS/UPS/FedEx store
+1. **FOUR 1.5&quot; x 1.5&quot; photos**. 
+    - Use an online service like [passport-photo-online](https://passport-photo.online/en-ph/photo-1,5x1,5-inch)  
+      You will have the option to download your photo, which you can use to print at your local store. Alternatively, they can ship the photos  
+      This DIY method is usually cheaper and more convenient then using a local stores passport photo service
 1. **Money order OR Cashier&#39;s check for $50 made payable to &quot;Treasurer, State of New Jersey&quot;**
     - You can get a Cashier&#39;s check from your bank.
     - Or you can get a money order at a 7-11/convenience store
