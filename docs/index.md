@@ -32,8 +32,8 @@ If you see your town listed below the **requirements**, it is listing one of the
 1. **Receipt of purchase for guns you want to carry**
    - This can be the pink [&quot;Permit to purchase a handgun &amp; form of register&quot; or invoice](https://github.com/mayerlench/ccwnj/blob/main/receipt.jpg?raw=true) (see pic) **OR** a notarized letter signed by you saying you own them. The make caliber and model should be listed
 
-1. **Training &amp; Qualifications** : You must take a shooting test **OR** sit in a class. The quickest way to qualify is to take a short shooting test by a instructor
-   - For qualifications/training contact Marcus Max @ 201-321-1309
+1. **Training &amp; Qualifications** : You must take a shooting test to show proper handling and saftey with EACH gun you wang to carry.  
+   - For qualifications/training contact NRA instructor Marcus Max @ 201-321-1309
 
 ### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST)
 Using this checklist, submit your application to your local police station records department  
