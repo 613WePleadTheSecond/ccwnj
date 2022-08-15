@@ -56,7 +56,7 @@ If you see your town listed below the **requirements**, it is listing one of the
 **Municipal Code:** 1512  
 
 **Fingerprinting**: to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.
-#
+##
 ### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST)
 Using this checklist, submit your application to your local police station's record department  
 - [ ] Three applications for conceal carry permit (form SP-642)
@@ -75,7 +75,9 @@ Using this checklist, submit your application to your local police station's rec
 
 **Marcus Max**    
 **Mobile/WhatsApp:** 201-321-1309  
-#
+
+##
+
 **Daniel Kastelanski**  
 **Mobile/WhatsApp:** 848-525-3701  
 **Email:** koshershooting101@gmail.com 
