@@ -1,9 +1,9 @@
 The **requirements** list below is everything you need and the steps to complete them.  
-Depending on the town you live in, the PD may want you to submit the requirements slightly differently.
+Some towns differ on how they want you to submit the requirements.
 
-If you see your town listed below the **requirements**, it is listing one of the requirements but specifically addressing how your town wants you submit it
+If you see your town listed below the **requirements**, it is listing one of the requirements but specifically addressing how your town wants you submit
 
-> 🔫 🚨 **Always be safe and make sure you are properly trained**: Taking a course to learn proper etiquette and safety should be your first priority especially if you plan on carrying
+> 🔫 🚨 **Always be safe and make sure you are properly trained**: Taking a course to learn proper weapons manipulation is a good start. Remember, its your right to carry but also your responsibilty to train. [certified instructors](#-certified-instructors)
 
 # **REQUIREMENTS**
 
@@ -32,11 +32,33 @@ If you see your town listed below the **requirements**, it is listing one of the
 1. **Receipt of purchase for guns you want to carry**
    - This can be the pink [&quot;Permit to purchase a handgun &amp; form of register&quot; or invoice](https://github.com/mayerlench/ccwnj/blob/main/receipt.jpg?raw=true) (see pic) **OR** a notarized letter signed by you saying you own them. The make caliber and model should be listed
 
-1. **Training &amp; Qualifications** : You must take a shooting test to show proper handling and saftey with EACH gun you wang to carry.  
-   - For qualifications/training contact NRA instructor Marcus Max @ 201-321-1309
+1. **Training &amp; Qualifications**: You must take a test to show proper handling and saftey with EACH gun you want to carry.  
+   - Qualifications must be done with a certified instructor
+   - click [here for a list of certified instructors](#-certified-instructors) that have amazing training options and can provide you with the needed qualifications.
 
+## 🏛️ **TOMS RIVER**  
+732-349-0150    
+**ORI#** NJ0150700  
+**Municipal Code:** 1507  
+
+**Fingerprinting**: Contact TRPD – records department, to get your **Contributor case code**  
+
+## 🏛️ **LAKEWOOD**  
+732-363-0200  
+**ORI#** NJ0151400  
+**Municipal Code:** 1514  
+
+**Fingerprinting**: Lakewood is the single town that is telling applicants **NOT** to get fingerprinted before submitting the application. A detective will follow up with you to let you know the next steps after you submit your application 🙄
+
+## 🏛️ **JACKSON**  
+732-928-1111  
+**ORI#** NJ0151100  
+**Municipal Code:** 1512  
+
+**Fingerprinting**: to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.
+#
 ### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST)
-Using this checklist, submit your application to your local police station records department  
+Using this checklist, submit your application to your local police station's record department  
 - [ ] Three applications for conceal carry permit (form SP-642)
 - [ ] Consent of mental health record search (form SP-066)
 - [ ] Four photos
@@ -46,25 +68,15 @@ Using this checklist, submit your application to your local police station recor
 - [ ] Training &amp; Qualifications certificate
 - [ ] Drivers license
 - [ ] Firearms purchasing card (FID)
-- [ ] Copy of birth certificate
+- [ ] Copy of birth certificate (optional)
+<br/>
 
-## **TOMS RIVER**  
-732-349-0150    
-**ORI#** NJ0150700  
-**Municipal Code:** 1507  
+# 👨‍🏫 Certified Instructors  
 
-**Fingerprinting**: Contact TRPD – records department, to get your **Contributor case code**  
+**Marcus Max**    
+**Mobile/WhatsApp:** 201-321-1309  
+#
+**Daniel Kastelanski**  
+**Mobile/WhatsApp:** 848-525-3701  
+**Email:** koshershooting101@gmail.com 
 
-## **LAKEWOOD**  
-732-363-0200  
-**ORI#** NJ0151400  
-**Municipal Code:** 1514  
-
-**Fingerprinting**: Lakewood is the single town that is telling applicants **NOT** to get fingerprinted before submitting the application. A detective will follow up with you to let you know the next steps after you submit your application 🙄
-
-## **JACKSON**  
-732-928-1111  
-**ORI#** NJ0151100  
-**Municipal Code:** 1512  
-
-**Fingerprinting**: to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.
