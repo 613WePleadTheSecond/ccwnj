@@ -77,6 +77,7 @@ Using this checklist, submit your application to your local police station's rec
 
 **Marcus Max**    
 **Mobile** [201-321-1309](tel:+12013211309)  
+Join [this WhatsApp group](https://chat.whatsapp.com/IrN9POr4PE502LBlAhMXAy) to be notified when the next qualifications/classes will be  
 [Send a WhatsApp to Marcus](https://wa.me/+12013211309?text=Hi%20my%20name%20is%20%3Cname%3E%0A%0AI%20would%20like%20to%20inquire%20about%20%3Ctraining%20%7C%20ccw%20qualifications%3E)
 
 ##
