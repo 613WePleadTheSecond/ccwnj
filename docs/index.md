@@ -38,27 +38,35 @@ If you see your town listed below the **requirements**, it is listing one of the
    - If you are NOT an expert, inquire about some training AND qualifications needed to submit your application
    - **click [here for a list of certified instructors](#-certified-instructors) that have amazing training options and can provide you with the needed qualifications**
 
-## 🏛️ **TOMS RIVER**  
+---  
+
+### 🏛️ **TOMS RIVER**  
 732-349-0150    
 **ORI#** NJ0150700  
 **Municipal Code:** 1507  
 
 **Fingerprinting**: Contact TRPD – records department, to get your **Contributor case code**  
 
-## 🏛️ **LAKEWOOD**  
+---  
+
+### 🏛️ **LAKEWOOD**  
 732-363-0200  
 **ORI#** NJ0151400  
 **Municipal Code:** 1514  
 
-**Fingerprinting**: Lakewood is the single town that is telling applicants **NOT** to get fingerprinted before submitting the application. A detective will follow up with you to let you know the next steps after you submit your application 🙄
+**Fingerprinting**: Lakewood is the single town that is telling applicants **NOT** to get fingerprinted before submitting the application. A detective will follow up with you to let you know the next steps after you submit your application 🙄  
 
-## 🏛️ **JACKSON**  
+---  
+
+### 🏛️ **JACKSON**  
 732-928-1111  
 **ORI#** NJ0151100  
 **Municipal Code:** 1512  
 
-**Fingerprinting**: to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.
-##
+**Fingerprinting**: to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.  
+
+---  
+
 ### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST)
 Using this checklist, submit your application to your local police station's record department  
 - [ ] Three applications for conceal carry permit (form SP-642)
