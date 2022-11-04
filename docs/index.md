@@ -1,7 +1,7 @@
 
   > <div class="container">
   >  <h4><b>Sponsored by: Finity Development </b></h4>
-  >     <img src="https://github.com/613WePleadTheSecond/ccwnj/blob/main/teams_preview_logo.jpg" alt="Avatar" style="height: 45px;">
+  >     <img src="https://github.com/613WePleadTheSecond/ccwnj/blob/main/teams_preview_logo.jpg?raw=true" alt="Avatar" style="height: 45px;">
   >  <p>We build custom software tailored for your buisness vision. </p>
   >  <p>Mobile Apps, Web Apps, Custom Integrations. Lets deep dive and create solutions with software!</p>
  > </div>
