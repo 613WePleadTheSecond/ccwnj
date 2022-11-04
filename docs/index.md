@@ -1,9 +1,19 @@
+
+  > <div class="container">
+  >  <h4><b>Sponsored by: Finity Development </b></h4>
+  >     <img src="https://github.com/613WePleadTheSecond/ccwnj/blob/main/teams_preview_logo.jpg" alt="Avatar" style="height: 45px;">
+  >  <p>We build custom software tailored for your buisness vision. </p>
+  >  <p>Mobile Apps, Web Apps, Custom Integrations. Lets deep dive and create solutions with software!</p>
+ > </div>
+
+
+
 The **requirements** list below is everything you need and the steps to complete them.  
 Some towns differ on how they want you to submit the requirements.
 
 If you see your town listed below the **requirements**, it is listing one of the requirements but specifically addressing how your town wants you submit
 
-> 🔫 🚨 **Always be safe and make sure you are properly trained**: Taking a course to learn proper weapons manipulation is a good start. Remember, its your right to carry but also your responsibilty to train. [certified instructors](#-certified-instructors)
+🔫 🚨 **Always be safe and make sure you are properly trained**: Taking a course to learn proper weapons manipulation is a good start. Remember, its your right to carry but also your responsibilty to train. [certified instructors](#-certified-instructors)
 
 # **REQUIREMENTS**
 
