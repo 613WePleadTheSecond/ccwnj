@@ -19,7 +19,7 @@ If you see your town listed below the **requirements**, it is listing one of the
 
 1. **Fill out** [**form SP-642**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **Application to conceal carry permit**
     - For legibility purposes, fill out all information that you can on a computer, besides for signatures
-    - Print out **THREE** application forms (page one). Then, print the second page for witnesses on the back of the application forms.
+    - Print out **THREE** application forms (page one) and **THREE** witnesses forms (page two). Witness form should be printed on back of the application.
     - Each of the three forms should be filled out **(NO COPIES)**
     - Each of the witness forms should be filled out by the same witnesses. Witnesses must know the applicant for minimum of 3 years. **(NO COPIES)**
     - It is suggested to put witnesses who will be ready to answer the phone when the PD calls them
