@@ -72,7 +72,7 @@ If you see your town listed below the **requirements**, it is listing one of the
 ### 🏛️ **JACKSON**  
 732-928-1111  
 **ORI#** NJ0151100  
-**Municipal Code:** 1512  
+**Municipal Code:** 1511    
 
 **Fingerprinting**: to get your Contributor Case number, they want you to go into the station with ID and then they will give it to you.  
 
