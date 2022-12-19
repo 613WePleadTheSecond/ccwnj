@@ -43,8 +43,9 @@ If you see your town listed below the **requirements**, it is listing one of the
 1. **Receipt of purchase for guns you want to carry**
    - This can be the pink [&quot;Permit to purchase a handgun &amp; form of register&quot; or invoice](https://github.com/mayerlench/ccwnj/blob/main/receipt.jpg?raw=true) (see pic) **OR** a notarized letter signed by you saying you own them. The make caliber and model should be listed
 
-1. **Training &amp; Qualifications**: You must take a test to show proper handling and saftey with EACH gun you want to carry. While class time is NOT required to submit your application, it is neglegent to carry without proper training.  
+1. **Training &amp; use of force qualifications**: You must take a test to show proper handling and saftey with EACH gun you want to carry. While class time is NOT required to submit your application, it is neglegent to carry without proper training.  
    - Qualifications must be done with a certified instructor
+   - Qualifications must include that your were briefed on use of force 
    - If you are an expert at carrying and do not need a class, inquire about just the shooting qualifications needed to submit your application
    - If you are NOT an expert, inquire about some training AND qualifications needed to submit your application
    - **click [here for a list of certified instructors](#-certified-instructors) that have amazing training options and can provide you with the needed qualifications**
@@ -86,26 +87,9 @@ Using this checklist, submit your application to your local police station's rec
 - [ ] Money Order
 - [ ] Identogo fingerprinting receipt
 - [ ] Receipt of purchase for guns you want to carry
-- [ ] Training &amp; Qualifications certificate
+- [ ] Training &amp; Use of force qualifications certificate
 - [ ] Drivers license
 - [ ] Firearms purchasing card (FID)
 - [ ] Copy of birth certificate (optional)
-<br/>
-
-# 👨‍🏫 Certified Instructors  
-
-**Instructor**: Marcus Max     
-**Mobile**: [201-321-1309](tel:+12013211309)  
-Join [this WhatsApp group](https://chat.whatsapp.com/IrN9POr4PE502LBlAhMXAy) to be notified when the next qualifications/classes will be  
-[📱 Send a WhatsApp to Marcus](https://wa.me/+12013211309?text=Hi%20my%20name%20is%20%3Cname%3E%0A%0AI%20would%20like%20to%20inquire%20about%20%3Ctraining%20%7C%20ccw%20qualifications%3E)
-
----
-
-**Instructor**: Daniel Kastelanski   
-**Mobile**: [848-525-3701](tel:+18485253701)   
-**Email**: koshershooting101@gmail.com  
-[📱 Send a WhatsApp to Daniel](https://wa.me/+18485253701?text=Hi%20my%20name%20is%20%3Cname%3E%0A%0AI%20would%20like%20to%20inquire%20about%20%3Ctraining%20%7C%20ccw%20qualifications%3E)  
-[📧 Send an email to Daniel](mailto:koshershooting101@gmail.com?subject=Training%2FQualifications&body=Hi%20my%20name%20is%20%3Cname%3E%0D%0A%0D%0AI%20would%20like%20to%20inquire%20about%20%3Ctraining%20%7C%20ccw%20qualifications%3E)
-
----
+<br/> 
 
