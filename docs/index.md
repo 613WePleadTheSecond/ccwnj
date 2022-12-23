@@ -8,9 +8,6 @@
  > </div> 
 
 
-> ⚠️⚠️ We are currently waiting on the new training requirements and updated forms, suggested to wait untill we have these
-
-
 ### To submit an application for a permit to carry a firearm in New Jersey, the below requirements/documents are needed:
 
 # **REQUIREMENTS**
@@ -18,9 +15,8 @@
 1. **Fill out** [**form SP-642 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **Application to conceal carry permit**
     - For legibility purposes, fill out all information that you can on a computer
     - Each of the forms should be filled out **(NO COPIES)**
-    - You need four references. Must know the applicant for minimum of 3 years and not blood related. **(NO COPIES)**
+    - You need 4 references. Must know the applicant for minimum of 3 years and not blood related. **(NO COPIES)**
     - Notarize all three applications. Lawyers/Banks/Post Office usually have a notary on hand.
-
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
 1. **FOUR 1.5&quot; x 1.5&quot; photos**. 
@@ -34,7 +30,7 @@
    - Provide receipts or any form of documentation that show you own your guns
  **OR** a notarized letter signed by you saying you own them. The make caliber and model should be listed
 
-1. **Training requirements**: As of right now the superintendent has not released the new training requirements
+1. **Training requirements**: Contact your local shooting range for qualifications.
 
 ---  
 
