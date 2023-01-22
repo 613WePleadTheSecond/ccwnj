@@ -14,9 +14,8 @@
 
 1. **Fill out** [**form SP-642 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **Application to conceal carry permit**
     - For legibility purposes, fill out all information that you can on a computer
-    - Each of the forms should be filled out **(NO COPIES)**
-    - You need 4 references. Must know the applicant for minimum of 3 years and not blood related. **(NO COPIES)**
-    - Notarize all three applications. Lawyers/Banks/Post Office usually have a notary on hand.
+    - You need 4 references. Must know the applicant for minimum of 3 years and not blood related.
+    - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand.
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
 1. **Two passport sized photos**. 
