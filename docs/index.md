@@ -19,7 +19,7 @@
     - Notarize all three applications. Lawyers/Banks/Post Office usually have a notary on hand.
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
-1. **FOUR 1.5&quot; x 1.5&quot; photos**. 
+1. **Two 1.5&quot; x 1.5&quot; photos**. 
     - Use an online service like [passport-photo-online (click here)](https://passport-photo.online/en-ph/photo-1,5x1,5-inch)  
       You will have the option to download your photo, which you can use to print at your local store. Alternatively, they can ship the photos  
       This DIY method is usually cheaper and more convenient then using a local stores passport photo service
@@ -59,7 +59,7 @@
 Using this checklist, submit your application to your local police station's record department  
 - [ ] Three applications for conceal carry permit (form SP-642)
 - [ ] Consent of mental health record search (form SP-066)
-- [ ] Four photos
+- [ ] Two photos
 - [ ] Money Order
 - [ ] Receipt of purchase for guns you want to carry
 - [ ] Training qualifications
