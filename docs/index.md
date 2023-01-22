@@ -56,9 +56,9 @@
 
 ### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST)
 Using this checklist, submit your application to your local police station's record department  
-- [ ] Three applications for conceal carry permit (form SP-642)
+- [ ] One application for conceal carry permit (form SP-642)
 - [ ] Consent of mental health record search (form SP-066)
-- [ ] Two photos
+- [ ] Two passport photos
 - [ ] Money Order
 - [ ] Receipt of purchase for guns you want to carry
 - [ ] Training qualifications
