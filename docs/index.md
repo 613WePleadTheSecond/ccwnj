@@ -23,7 +23,7 @@
     - Use an online service like [passport-photo-online (click here)](https://passport-photo.online/en-ph/photo-1,5x1,5-inch)  
       You will have the option to download your photo, which you can use to print at your local store. Alternatively, they can ship the photos  
       This DIY method is usually cheaper and more convenient then using a local stores passport photo service
-1. **Money order OR Cashier&#39;s check for $200 made payable to &quot;<ask local pd for this>&quot;**
+1. **Money order OR Cashier&#39;s check for $200 made payable to State Of New Jersey <ask local pd for this>&quot;**
     - You can get a Cashier&#39;s check from your bank.
     - Or you can get a money order at a 7-11/convenience store
 1. **Receipt of purchase for guns you want to carry**
