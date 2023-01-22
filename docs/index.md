@@ -2,7 +2,7 @@
   > <div class="container">
   >  <h4><b>Sponsored by: Finity Development </b></h4>
   >     <img src="https://github.com/613WePleadTheSecond/ccwnj/blob/main/teams_preview_logo.jpg?raw=true" alt="Avatar" style="height: 45px;">
-  >  <p>We build custom software tailored for your buisness vision. </p>
+  >  <p>We build custom software! </p>
   >  <p>Mobile Apps, Web Apps, Custom Integrations. Lets deep dive and create solutions with software!</p>
   >  <a href="mailto:info@finitydevelopment.com?subject=Inquiry&body=Hey%2C%20id%20like%20to%20inquire%20about%20custom%20software">Contact info@finitydevelopment.com</a>
  > </div> 
