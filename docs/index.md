@@ -66,7 +66,7 @@ Using this checklist, submit your application to your local police station's rec
 - [ ] Firearms purchasing card (FID)
 <br/> 
 
- ## Out of state?  
+## Out of state?  
  You must submit your application to the closest police barracks to where you live.  
  You will need all the items above, in addition you will need to provide:
 - Consent of mental health record search (from your state).  
