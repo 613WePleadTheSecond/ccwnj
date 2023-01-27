@@ -25,7 +25,7 @@
 1. **Money order OR Cashier&#39;s check for $200 made payable to State Of New Jersey - Treasurer**
     - You can get a Cashier&#39;s check from your bank.
     - Or you can get a money order at a 7-11/convenience store
-1. **Training requirements**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test. 
+1. **Live Fire Training**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test. 
 1. **Use Of Force Training** - You need to take a use of force class. This can currently be done free online offered by the [RTSP range here](https://www.rtsponline.com/use-of-force-certificate/)
 1. **Fingerprinting**: You PD might require new fingerprints even if you've had this done for your FID card. Call them to find out
 ---  
@@ -57,7 +57,7 @@ Using this checklist, submit your application to your local police station's rec
 - [ ] Consent of mental health record search (form SP-066)
 - [ ] Two passport photos
 - [ ] Money Order
-- [ ] Training qualifications results (HQC1 or HQC2)
+- [ ] Live Fire Training results (HQC1 or HQC2)
 - [ ] Use Of Force Certificate
 - [ ] Drivers license
 - [ ] Firearms purchasing card (FID)
