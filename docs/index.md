@@ -25,12 +25,8 @@
 1. **Money order OR Cashier&#39;s check for $200 made payable to State Of New Jersey - Treasurer**
     - You can get a Cashier&#39;s check from your bank.
     - Or you can get a money order at a 7-11/convenience store
-1. **Receipt of purchase for guns you want to carry**
-   - Provide receipts or any form of documentation that show you own your guns
- **OR** a notarized letter signed by you saying you own them. The make caliber and model should be listed
-
 1. **Training requirements**: Contact your local shooting range for qualifications.
-
+1. **Fingerprinting**: You PD might require new fingerprints even if you've had this done for your FID card. Call them to find out
 ---  
 
 ### 🏛️ **TOMS RIVER**  
@@ -60,7 +56,6 @@ Using this checklist, submit your application to your local police station's rec
 - [ ] Consent of mental health record search (form SP-066)
 - [ ] Two passport photos
 - [ ] Money Order
-- [ ] Receipt of purchase for guns you want to carry
 - [ ] Training qualifications
 - [ ] Drivers license
 - [ ] Firearms purchasing card (FID)
