@@ -27,7 +27,8 @@
     - Or you can get a money order at a 7-11/convenience store
 1. **Live Fire Training**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test. 
 1. **Use Of Force Training** - You need to take a use of force class. This can currently be done free online offered by the [RTSP range here](https://www.rtsponline.com/use-of-force-certificate/)
-1. **Fingerprinting**: You PD might require new fingerprints even if you've had this done for your FID card. Call them to find out
+1. **Fingerprinting**: If you've had this done for your FID card you may be able to use those. Ask your PD  
+
 ---  
 
 ### 🏛️ **TOMS RIVER**  
