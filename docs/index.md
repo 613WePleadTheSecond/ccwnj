@@ -13,18 +13,22 @@
 # **REQUIREMENTS**
 
 1. **Fill out** [**form SP-642 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **Application to conceal carry permit**
+    - The application is two papers. Print them back to back on one piece of paper
     - For legibility purposes, fill out all information that you can on a computer
     - You need 4 references. Must know the applicant for minimum of 3 years and not blood related.
     - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand.
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
-1. **Two passport sized photos**. 
+1. **Two passport sized photos**.
+    - Must be taken within 30 days of application
     - Use an online service like [passport-photo-online (click here)](https://passport-photo.online/en-ph/photo-1,5x1,5-inch)  
       You will have the option to download your photo, which you can use to print at your local store. Alternatively, they can ship the photos  
       This DIY method is usually cheaper and more convenient then using a local stores passport photo service
-1. **Money order OR Cashier&#39;s check for $200 made payable to State Of New Jersey - Treasurer**
-    - You can get a Cashier&#39;s check from your bank.
-    - Or you can get a money order at a 7-11/convenience store
+1. **Money order OR Cashier&#39;s**  
+    - You cannot use a personal check.
+     **Check 1:** $150 payable to "State Of New Jersey - Treasurer"  
+     **Check 2:** $50 payable to your municipality  
+  
 1. **Live Fire Training**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test. 
 1. **Use Of Force Training** - You need to take a use of force class. This can currently be done free online offered by the [RTSP range here](https://www.rtsponline.com/use-of-force-certificate/)
 1. **Fingerprinting**: If you've had this done for your FID card you may be able to use those. Ask your PD  
