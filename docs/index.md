@@ -21,9 +21,8 @@
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
 1. **Two passport sized photos**.
     - Must be taken within 30 days of application
-    - Use an online service like [passport-photo-online (click here)](https://passport-photo.online/en-ph/photo-1,5x1,5-inch)  
-      You will have the option to download your photo, which you can use to print at your local store. Alternatively, they can ship the photos  
-      This DIY method is usually cheaper and more convenient then using a local stores passport photo service
+    - Use an online service like [ID Photo 4 You](https://www.idphoto4you.com/) to crop and format.
+    - Print on a 4x6 at a local stores self serve imaging machine, then cut out photos
 1. **Money order OR Cashier&#39;s**  
     - You cannot use a personal check.
      **Check 1:** $150 payable to "State Of New Jersey - Treasurer"  
