@@ -22,9 +22,11 @@
     - Use an online service like [ID Photo 4 You](https://www.idphoto4you.com/) to crop and format.
     - Print on a 4x6 at a local stores self serve imaging machine, then cut out photos
 1. **Money order OR Cashier&#39;s**  
-    - You cannot use a personal check.
-     **Check 1:** $150 payable to "State Of New Jersey - Treasurer"  
-     **Check 2:** $50 payable to your municipality  
+    - You cannot use a personal check.  
+    - You will need to money order checks.  
+    (1) **Check 1:** $50 payable to "State Of New Jersey - Treasurer"  
+    (2) **Check 2:** $150 payable to your municipality  
+      > If submitted to the superintendent, you only need one check in the amount of $200 payable to "State Of New Jersey - Treasurer"  
   
 1. **Live Fire Training**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test. 
 1. **Use Of Force Training** - You need to take a use of force class. This can currently be done free online offered by the [RTSP range here](https://www.rtsponline.com/use-of-force-certificate/)
