@@ -8,9 +8,7 @@
  > </div> 
 
 
-### To submit an application for a permit to carry a firearm in New Jersey, the below requirements/documents are needed:
-
-# **REQUIREMENTS**
+# Instructions for permit to carry in New Jersey
 
 1. **Fill out** [**form SP-642 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **Application to conceal carry permit**
     - The application is two papers. Print them back to back on one piece of paper
