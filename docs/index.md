@@ -17,6 +17,7 @@
     - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand.
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
+      > Lakewood is not following this process and requires you to witness and sign the app pre-submission
 1. **Two passport sized photos**.
     - Must be taken within 30 days of application
     - Use an online service like [ID Photo 4 You](https://www.idphoto4you.com/) to crop and format.
