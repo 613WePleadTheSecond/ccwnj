@@ -11,10 +11,10 @@
 # Instructions for permit to carry in New Jersey
 
 1. **Fill out** [**form SP-642 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **Application to conceal carry permit**
-    - The application is two papers. Print them back to back on one piece of paper
+    - The application is two papers. Print them back to back on one piece of paper. Print three of these
     - For legibility purposes, fill out all information that you can on a computer
-    - You need 4 references. Must know the applicant for minimum of 3 years and not blood related.
-    - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand.
+    - You need 4 references. Must know the applicant for minimum of 3 years and not blood related. No copies, each of your 4 refs should sign each application
+    - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand. No copies, notarize each application
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
       > Lakewood is not following this process and requires you to witness and sign the app pre-submission
@@ -58,7 +58,7 @@
 
 ### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST)
 Using this checklist, submit your application to your local police station's record department  
-- [ ] One application for conceal carry permit (form SP-642)
+- [ ] Three applications for conceal carry permit (form SP-642)
 - [ ] Consent of mental health record search (form SP-066)
 - [ ] Two passport photos
 - [ ] Money Order
