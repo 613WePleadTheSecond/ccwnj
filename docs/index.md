@@ -1,23 +1,15 @@
+ # Instructions for permit to carry in New Jersey
 
-  > <div class="container">
-  >  <h4><b>Sponsored by: Finity Development </b></h4>
-  >     <img src="https://github.com/613WePleadTheSecond/ccwnj/blob/main/teams_preview_logo.jpg?raw=true" alt="Avatar" style="height: 45px;">
-  >  <p>We build custom software! </p>
-  >  <p>Mobile Apps, Web Apps, Custom Integrations. Lets deep dive and create solutions with software!</p>
-  >  <a href="mailto:info@finitydevelopment.com?subject=Inquiry&body=Hey%2C%20id%20like%20to%20inquire%20about%20custom%20software">Contact info@finitydevelopment.com</a>
- > </div> 
-
-
-# Instructions for permit to carry in New Jersey
 
 1. **Fill out** [**form SP-642 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **Application to conceal carry permit**
     - The application is two papers. Print them back to back on one piece of paper.
     - For legibility purposes, fill out all information that you can on a computer
     - You need 4 references. Must know the applicant for minimum of 3 years and not blood related.
     - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand.
+    > Lakewood is not following state guidance and requires you to submit three applications, no copies, all witnessed and notarized
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
-      > Lakewood is not following this process and requires you to witness and sign the app pre-submission
+      > Lakewood made up their own process and requires you to witness and sign the app pre-submission
 1. **Two passport sized photos**.
     - Must be taken within 30 days of application
     - Use an online service like [ID Photo 4 You](https://www.idphoto4you.com/) to crop and format.
