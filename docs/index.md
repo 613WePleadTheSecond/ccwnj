@@ -11,10 +11,10 @@
 # Instructions for permit to carry in New Jersey
 
 1. **Fill out** [**form SP-642 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-642.pdf) **Application to conceal carry permit**
-    - The application is two papers. Print them back to back on one piece of paper. Print three of these
+    - The application is two papers. Print them back to back on one piece of paper.
     - For legibility purposes, fill out all information that you can on a computer
-    - You need 4 references. Must know the applicant for minimum of 3 years and not blood related. No copies, each of your 4 refs should sign each application
-    - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand. No copies, notarize each application
+    - You need 4 references. Must know the applicant for minimum of 3 years and not blood related.
+    - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand.
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
       > Lakewood is not following this process and requires you to witness and sign the app pre-submission
@@ -29,9 +29,10 @@
     (2) **Check 2:** $150 payable to your municipality  
       > If submitted to the superintendent, you only need one check in the amount of $200 payable to "State Of New Jersey - Treasurer"  
   
-1. **Live Fire Training**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test. 
-1. **Use Of Force Training** - You need to take a use of force class. This can currently be done free online offered by the [RTSP range here](https://www.rtsponline.com/use-of-force-certificate/)
-1. **Fingerprinting**: If you've had this done for your FID card you may be able to use those. Ask your PD  
+1. **Live Fire Training**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test.
+   Submit proof of qualification with a certified firearms instructor along with firearms instructor proof of certification
+3. **Use Of Force Training** - You need to take a use of force class. This can currently be done free online offered by the [RTSP range here](https://www.rtsponline.com/use-of-force-certificate/)
+4. **Fingerprinting**: If you've had this done for your FID card you may be able to use those. Ask your PD  
 
 ---  
 
@@ -58,14 +59,16 @@
 
 ### 🔵 SUBMITTING YOUR APPLICATION (CHECKLIST)
 Using this checklist, submit your application to your local police station's record department  
-- [ ] Three applications for conceal carry permit (form SP-642)
-- [ ] Consent of mental health record search (form SP-066)
+- [ ] One application for conceal carry permit (form SP-642)
+- [ ] One Consent of mental health record search (form SP-066)
 - [ ] Two passport photos
-- [ ] Money Order
+- [ ] Money Order(s)
 - [ ] Live Fire Training results (HQC1 or HQC2)
 - [ ] Use Of Force Certificate
-- [ ] Drivers license
 - [ ] Firearms purchasing card (FID)
+- [ ] Drivers license
+- [ ] Birth Certificate **OR** Passport **OR** Naturalization Paperwork/Green Card
+
 <br/> 
 
 ## Out of state?  
