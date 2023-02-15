@@ -20,7 +20,7 @@
       > Lakewood made up their own process and requires you to witness and sign the app pre-submission
 1. **Two passport sized photos**.
     - Must be taken within 30 days of application
-    - Use an online service like [ID Photo 4 You](https://www.idphoto4you.com/) to crop and format.
+    - Use this passport generator [MyPhotoIDApp](https://myphotoidapp.firebaseapp.com/) to crop and format.
     - Print on a 4x6 at a local stores self serve imaging machine, then cut out photos
 1. **Money order OR Cashier&#39;s**  
     - You cannot use a personal check.  
