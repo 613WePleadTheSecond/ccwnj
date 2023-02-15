@@ -14,7 +14,7 @@
     - For legibility purposes, fill out all information that you can on a computer
     - You need 4 references. Must know the applicant for minimum of 3 years and not blood related.
     - Notarize the application. Lawyers/Banks/Post Office usually have a notary on hand.
-    > Lakewood is not following state guidance and requires you to submit three applications, no copies, all witnessed and notarized
+    > Lakewood is not following state guidance and requires you to submit **THREE** applications, no copies, all witnessed and notarized
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
       > Lakewood made up their own process and requires you to witness and sign the app pre-submission
