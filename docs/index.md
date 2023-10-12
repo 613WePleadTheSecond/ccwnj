@@ -17,7 +17,7 @@
     > Lakewood is not following state guidance and requires you to submit **THREE** applications, no copies, all witnessed and notarized
 1. **Complete** [**form SP0-66 (click here)**](https://github.com/mayerlench/ccwnj/raw/main/sp-066.pdf) **for consent of mental health record search.**
     - DO NOT sign the form. You must sign the form in front of the PD official and they will sign as the witness.
-      > Lakewood made up their own process and requires you to witness and sign the app pre-submission
+      > Lakewood requires you to witness and sign the app pre-submission
 1. **Two passport sized photos**.
     - Must be taken within 30 days of application
     - Use this passport generator [MyPhotoIDApp](https://myphotoidapp.firebaseapp.com/) to crop and format.
@@ -31,7 +31,6 @@
   
 1. **Live Fire Training**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test.
    Submit proof of qualification with a certified firearms instructor along with firearms instructor proof of certification
-3. **Use Of Force Training** - You need to take a use of force class. This can currently be done free online offered by the [RTSP range here](https://www.rtsponline.com/use-of-force-certificate/)
 4. **Fingerprinting**: If you've had this done for your FID card you may be able to use those. Ask your PD  
 
 ---  
@@ -64,7 +63,6 @@ Using this checklist, submit your application to your local police station's rec
 - [ ] Two passport photos
 - [ ] Money Order(s)
 - [ ] Live Fire Training results (HQC1 or HQC2)
-- [ ] Use Of Force Certificate
 - [ ] Firearms purchasing card (FID)
 - [ ] Drivers license
 - [ ] Birth Certificate **OR** Passport **OR** Naturalization Paperwork/Green Card
