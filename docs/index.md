@@ -29,9 +29,8 @@
     (2) **Check 2:** $150 payable to your municipality  
       > If submitted to the superintendent, you only need one check in the amount of $200 payable to "State Of New Jersey - Treasurer"  
   
-1. **Live Fire Training**: Contact your local shooting range for qualifications. This involves taking the HQC1 or HQC2 test.
-   Submit proof of qualification with a certified firearms instructor along with firearms instructor proof of certification
-4. **Fingerprinting**: If you've had this done for your FID card you may be able to use those. Ask your PD  
+1. **Training certificate**: Contact your local shooting range for qualifications. This involves live fire training (practice or you will fail)
+4. **Fingerprinting**: If you've had this done for your FID card you may be able to use those. Ask your PD
 
 ---  
 
@@ -62,7 +61,7 @@ Using this checklist, submit your application to your local police station's rec
 - [ ] One Consent of mental health record search (form SP-066)
 - [ ] Two passport photos
 - [ ] Money Order(s)
-- [ ] Live Fire Training results (HQC1 or HQC2)
+- [ ] Training certificate
 - [ ] Firearms purchasing card (FID)
 - [ ] Drivers license
 - [ ] Birth Certificate **OR** Passport **OR** Naturalization Paperwork/Green Card
